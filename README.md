@@ -42,6 +42,7 @@ Choosing pre-built transition animations instead of a random transition being lo
 Image compatability
 More transitions
 Motion Graphic Typeface
+mobile optimization
 
 #Customization tips:
 Adding transition animations is easy. following the style set in eon.js, just add the transition and a transition loop, then load them into the click event listener.
