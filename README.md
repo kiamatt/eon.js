@@ -1,10 +1,10 @@
 # Welcome to eon.js!
 
-This is a small javascript library that renders any HTML5 canvas state into pixels. It was written with the purposes of data visualization and stylistic text rendering in mind, but don't let that stop you from using it any way you see fit.
+This is the author's first attempt at a small javascript library. It renders any HTML5 canvas state into pixels. It was written with the purposes of data visualization and stylistic text rendering in mind, but don't let that stop you from using it any way you see fit.
 
 # Eon is small and easy to use.
 
-Feel free to tinker with it any way you see fit. Version 1.0 has plenty of room for improvement, and it's the author's wish that it be used and built upon for any purpose.
+Feel free to tinker with it any way you'd like. Version 1.0 has plenty of room for improvement, and it's the author's wish that it be used and built upon for any purpose.
 
 #Use:
 Simply create var imageLoads = [ ]; and add as many HTML5 Canvas states as you want to it, in function form, and Eon will take care of the rest. For example:
